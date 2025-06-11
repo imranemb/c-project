@@ -1,0 +1,17 @@
+/Users/iheb/Desktop/C#/ClientBibliotheque/bin/Debug/net8.0/ClientBibliotheque
+/Users/iheb/Desktop/C#/ClientBibliotheque/bin/Debug/net8.0/ClientBibliotheque.deps.json
+/Users/iheb/Desktop/C#/ClientBibliotheque/bin/Debug/net8.0/ClientBibliotheque.runtimeconfig.json
+/Users/iheb/Desktop/C#/ClientBibliotheque/bin/Debug/net8.0/ClientBibliotheque.dll
+/Users/iheb/Desktop/C#/ClientBibliotheque/bin/Debug/net8.0/ClientBibliotheque.pdb
+/Users/iheb/Desktop/C#/ClientBibliotheque/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ClientBibliotheque.csproj.AssemblyReference.cache
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ClientBibliotheque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ClientBibliotheque.AssemblyInfoInputs.cache
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ClientBibliotheque.AssemblyInfo.cs
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ClientBibliotheque.csproj.CoreCompileInputs.cache
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ClientBibliotheque.csproj.CopyComplete
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ClientBibliotheque.dll
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/refint/ClientBibliotheque.dll
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ClientBibliotheque.pdb
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ClientBibliotheque.genruntimeconfig.cache
+/Users/iheb/Desktop/C#/ClientBibliotheque/obj/Debug/net8.0/ref/ClientBibliotheque.dll
