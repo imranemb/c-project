@@ -1,4 +1,4 @@
-README de la Bibliothèque Virtuelle — Projet en .NET Core
+Bibliothèque Virtuelle — Projet en .NET Core
 
 Oyez, nobles lecteurs, l’exposé fidèle d’un ouvrage conçu en cette glorieuse ère numérique, destiné à l’instruction des esprits studieux et curieux des lettres, tant digitales que classiques.
 
